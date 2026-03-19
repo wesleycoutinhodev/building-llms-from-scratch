@@ -46,8 +46,8 @@ chXX/
 
 | # | Chapter | Status | Notes |
 |---|---------|--------|-------|
-| — | Appendix A: PyTorch Intro | ⬜ Not started | Pre-req if needed |
-| 1 | Understanding Large Language Models | ⬜ Not started | Conceptual, no code |
+| — | Appendix A: PyTorch Intro | ✅ Not started | Pre-req if needed |
+| 1 | Understanding Large Language Models | 🔄 Not started | Conceptual, no code |
 | 2 | Working with Text Data | ⬜ Not started | Tokenization, BPE |
 | 3 | Coding Attention Mechanisms | ⬜ Not started | Self-attention, MHA |
 | 4 | Implementing a GPT Model from Scratch | ⬜ Not started | Full GPT architecture |
