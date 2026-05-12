@@ -21,7 +21,7 @@ No code exercises — conceptual chapter.
 
 ## My Status
 
-- [ ] Read chapter
-- [ ] Code-along notebook complete
-- [ ] Exercises done
-- [ ] Notes written
+- ✅ Read chapter
+- ✅ Code-along notebook complete
+- ✅ Exercises done
+- ✅ Notes written
